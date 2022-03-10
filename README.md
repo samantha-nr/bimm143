@@ -1,4 +1,5 @@
 # BIMM143
 Bioinformatics BIMM143 W22 at UC San Diego
 
-Class 15 [Vaccination Mini-Project]
+Class 11 [Transcriptomics and the analysis of RNA-Seq data]
+Class 14 [Vaccination Mini-Project]
